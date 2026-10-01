@@ -22,7 +22,3 @@ A responsive Netflix-inspired user interface built with React and CSS. This proj
 - HTML
 - CSS
 - Vite
-
-
-├── index.css
-└── main.jsx
