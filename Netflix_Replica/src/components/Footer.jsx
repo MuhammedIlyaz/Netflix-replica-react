@@ -33,7 +33,7 @@ function Footer() {
         </div>
       </div>
 
-      <img src="/images/Netflix_logo.svg" alt="logo" />
+      <img src="{`${import.meta.env.BASE_URL}/images/Netflix_logo.svg`}" alt="logo" />
     </section>
   );
 }

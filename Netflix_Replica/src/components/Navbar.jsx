@@ -2,7 +2,7 @@ function Navbar(){
 return(
 
     <nav className="navbar">
-        <img src="/images/Netflix_logo.svg" alt="logo"/>
+        <img src="{`${import.meta.env.BASE_URL}/images/Netflix_logo.svg`}" alt="logo"/>
 
         <button className="sign-in-btn">
             Sign In
